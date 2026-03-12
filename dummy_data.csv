@@ -3,7 +3,7 @@ Alice,30,New York,Engineer,70000
 Bob,30,London,Doctor,90000
 Charlie,35,Paris,Artist,50000
 David,35,Berlin,Teacher,60000
-Eva,22,Tokyo,Student,0
+Eva,22,Tokyo,Student,15000
 Frank,28,Sydney,Chef,55000
 Grace,32,San Francisco,Designer,80000
 Helen,27,Seoul,Scientist,75000
@@ -14,3 +14,38 @@ Linda,35,Los Angeles,Writer,52000
 Mike,29,New York,Developer,72000
 Nina,34,New York,Consultant,81000
 Oscar,41,New York,Architect,95000
+Paul,26,London,Student,12000
+Quinn,33,London,Engineer,85000
+Rachel,40,London,Manager,102000
+Sam,28,San Francisco,Developer,95000
+Tina,31,San Francisco,Designer,88000
+Uma,36,San Francisco,Engineer,110000
+Victor,29,Chicago,Analyst,67000
+Wendy,44,Chicago,Manager,98000
+Xander,27,Chicago,Developer,69000
+Yara,32,Los Angeles,Designer,76000
+Zoe,38,Los Angeles,Lawyer,91000
+Aaron,25,Los Angeles,Student,14000
+Bella,43,New York,Doctor,120000
+Carlos,37,New York,Lawyer,105000
+Diana,29,New York,Analyst,68000
+Ethan,34,London,Doctor,98000
+Fiona,26,London,Analyst,58000
+George,48,Paris,Architect,82000
+Hannah,31,Paris,Designer,65000
+Ivan,23,Paris,Student,11000
+Jade,39,Berlin,Engineer,78000
+Karl,33,Berlin,Doctor,94000
+Lena,27,Berlin,Teacher,55000
+Marco,45,Tokyo,Manager,88000
+Nora,30,Tokyo,Engineer,79000
+Oliver,28,Tokyo,Developer,74000
+Priya,35,Sydney,Scientist,81000
+Rick,41,Sydney,Doctor,99000
+Sara,26,Sydney,Teacher,53000
+Tom,38,Toronto,Lawyer,97000
+Ursula,32,Toronto,Engineer,84000
+Vera,29,Toronto,Analyst,66000
+Will,44,Singapore,Manager,115000
+Xena,36,Singapore,Engineer,105000
+Yusuf,31,Singapore,Developer,89000
