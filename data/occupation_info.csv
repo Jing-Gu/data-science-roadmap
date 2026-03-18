@@ -1,0 +1,17 @@
+Occupation,Industry,RequiresDegree,AvgMarketSalary,CareerLevel
+Engineer,Technology,True,95000,Mid
+Doctor,Healthcare,True,130000,Senior
+Artist,Creative,False,45000,Junior
+Teacher,Education,True,55000,Mid
+Student,Education,False,10000,Entry
+Chef,Hospitality,False,52000,Mid
+Designer,Creative,False,75000,Mid
+Scientist,Research,True,90000,Mid
+Manager,Business,True,100000,Senior
+Lawyer,Legal,True,115000,Senior
+Analyst,Finance,True,72000,Mid
+Writer,Creative,False,50000,Mid
+Developer,Technology,False,98000,Mid
+Consultant,Business,True,105000,Senior
+Architect,Design,True,88000,Senior
+Pilot,Aviation,True,120000,Senior

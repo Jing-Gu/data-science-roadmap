@@ -1,0 +1,51 @@
+Name,Age,Sex,City,Occupation,Salary
+Alice,30,Female,New York,Engineer,70000
+Bob,30,Male,London,Doctor,90000
+Charlie,35,Male,Paris,Artist,50000
+David,35,Male,Berlin,Teacher,60000
+Eva,22,Female,Tokyo,Student,15000
+Frank,28,Male,Sydney,Chef,55000
+Grace,32,Female,San Francisco,Designer,80000
+Helen,27,Female,Seoul,Scientist,75000
+Ian,45,Male,Toronto,Manager,95000
+Julia,38,Female,Singapore,Lawyer,85000
+Kevin,30,Male,Chicago,Analyst,65000
+Linda,35,Female,Los Angeles,Writer,52000
+Mike,29,Male,New York,Developer,72000
+Nina,34,Female,New York,Consultant,81000
+Oscar,41,Male,New York,Architect,95000
+Paul,26,Male,London,Student,12000
+Quinn,33,Female,London,Engineer,85000
+Rachel,40,Female,London,Manager,102000
+Sam,28,Male,San Francisco,Developer,95000
+Tina,31,Female,San Francisco,Designer,88000
+Uma,36,Female,San Francisco,Engineer,110000
+Victor,29,Male,Chicago,Analyst,67000
+Wendy,44,Female,Chicago,Manager,98000
+Xander,27,Male,Chicago,Developer,69000
+Yara,32,Female,Los Angeles,Designer,76000
+Zoe,38,Female,Los Angeles,Lawyer,91000
+Aaron,25,Male,Los Angeles,Student,14000
+Bella,43,Female,New York,Doctor,120000
+Carlos,37,Male,New York,Lawyer,105000
+Diana,29,Female,New York,Analyst,68000
+Ethan,34,Male,London,Doctor,98000
+Fiona,26,Female,London,Analyst,58000
+George,48,Male,Paris,Architect,82000
+Hannah,31,Female,Paris,Designer,65000
+Ivan,23,Male,Paris,Student,11000
+Jade,39,Female,Berlin,Engineer,78000
+Karl,33,Male,Berlin,Doctor,94000
+Lena,27,Female,Berlin,Teacher,55000
+Marco,45,Male,Tokyo,Manager,88000
+Nora,30,Female,Tokyo,Engineer,79000
+Oliver,28,Male,Tokyo,Developer,74000
+Priya,35,Female,Sydney,Scientist,81000
+Rick,41,Male,Sydney,Doctor,99000
+Sara,26,Female,Sydney,Teacher,53000
+Tom,38,Male,Toronto,Lawyer,97000
+Ursula,32,Female,Toronto,Engineer,84000
+Vera,29,Female,Toronto,Analyst,66000
+Will,44,Male,Singapore,Manager,115000
+Xena,36,Female,Singapore,Engineer,105000
+Yusuf,31,Male,Singapore,Developer,89000

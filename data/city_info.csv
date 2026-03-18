@@ -1,0 +1,15 @@
+City,Country,Region,Population_M,CostOfLivingIndex
+New York,USA,North America,8.3,100
+London,UK,Europe,9.0,95
+Paris,France,Europe,2.1,88
+Berlin,Germany,Europe,3.7,72
+Tokyo,Japan,Asia,13.9,85
+Sydney,Australia,Oceania,5.3,90
+San Francisco,USA,North America,0.9,110
+Seoul,South Korea,Asia,9.7,78
+Toronto,Canada,North America,2.9,82
+Singapore,Singapore,Asia,5.9,105
+Chicago,USA,North America,2.7,78
+Los Angeles,USA,North America,4.0,95
+Dubai,UAE,Middle East,3.3,88
+Amsterdam,Netherlands,Europe,0.9,92
